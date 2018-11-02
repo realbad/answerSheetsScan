@@ -3,4 +3,12 @@
 
 能用是能用了，不过识别率感人:cry:，填涂和线框重合的时候就没法识别了，这个问题研究了下可以通过识别凸域进行切割，有需要再改改吧，凑活自己能用:slightly_smiling_face:算是做个记录吧，算是菜鸟入门做了一点实际能用的东西。img里面放了一些测试图片。
 
+依赖库:
 
+1.numpy
+
+2.pythonopencv
+
+3.imutils
+
+测试图:![image](https://github.com/realbad/answerSheetsScan/blob/master/img/ques.jpg)
